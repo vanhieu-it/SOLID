@@ -1,4 +1,4 @@
-# THE-SOLID-PRINCIPLES
+# THE SOLID PRINCIPLES
 
 ## 1.Single responsibility principle
 
